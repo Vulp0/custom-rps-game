@@ -1,0 +1,17 @@
+{
+  "name": "task3",
+  "version": "1.0.0",
+  "main": "the-game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "js-sha3": "^0.9.3",
+    "prompt-sync": "^4.2.0",
+    "secure-random": "^1.1.2",
+    "table": "^6.8.2"
+  }
+}
